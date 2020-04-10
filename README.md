@@ -1,4 +1,4 @@
-# 1. 이미지 (Image)
+# 1. 이미지 (Image) <a id="user-content-1" class="anchor" aria-hidden="true"></a>
 
 ### 활용 이미지
 ><a href="https://github.com/hanback-docs/OpenCV-Examples/raw/master/img.jpg"><img src="https://github.com/hanback-docs/OpenCV-Examples/blob/master/img.jpg"><br>
@@ -6,7 +6,7 @@ Download</a>
 
 <br><br>
 
-# 2. 카메라 (Camera) <a id="user-content-2" class="anchor" aria-hidden="true" href="#2">></a>
+# 2. 카메라 (Camera) <a id="user-content-2" class="anchor" aria-hidden="true"></a>
 | 속성명(Attribute)  | 설명(Details) |
 | ------------ | ----- |
 | **cv2.CAP_PROP_POS_MSEC**| 비디오의 현재 위치. 밀리초 또는 타임 스탬프|

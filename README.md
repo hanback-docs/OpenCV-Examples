@@ -6,7 +6,7 @@ Download</a>
 
 <br><br>
 
-# 2. 카메라 (Camera)
+# 2. 카메라 (Camera) <a href="#2"></a>
 | 속성명(Attribute)  | 설명(Details) |
 | ------------ | ----- |
 | **cv2.CAP_PROP_POS_MSEC**| 비디오의 현재 위치. 밀리초 또는 타임 스탬프|

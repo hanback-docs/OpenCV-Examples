@@ -24,3 +24,19 @@ Download</a>
 |**cv2.CAP_PROP_EXPOSURE**|카메라 노출|
 |**cv2.CAP_PROP_CONVERT_RGB**|True이면 이미지를 RGB로 변환|
 
+| Attribute  | Description |
+| ------------ | ----- |
+| **cv2.CAP_PROP_POS_MSEC**| The current location of the video, miliseconds or time stamp |
+| **cv2.CAP_PROP_POS_FRAMES**| The next frame index to capture/decode |
+| **cv2.CAP_PROP_FRAME_WIDTH**| The frame width of the video stream |
+|**cv2.CAP_PROP_FRAME_HEIGHT**| The frame height of the video stream |
+|**cv2.CAP_PROP_FPS**| The frame rate |
+|**cv2.CAP_PROP_FOURCC**| The code’s 4-letter code |
+|**cv2.CAP_PROP_FRAME_COUNT**| The number of frames in the video file |
+|**cv2.CAP_PROP_BRIGHTNESS**| Camera brightness |
+|**cv2.CAP_PROP_CONTRAST**| Camera contrast |
+|**cv2.CAP_PROP_SATURATION**| Camera saturation |
+|**cv2.CAP_PROP_HUE**| Camera tint |
+|**cv2.CAP_PROP_GAIN**| Camera gain |
+|**cv2.CAP_PROP_EXPOSURE**| Camera exposure |
+|**cv2.CAP_PROP_CONVERT_RGB**| cv2.CAP_PROP_CONVERT_RGB	If True, converts image to RGB |

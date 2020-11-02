@@ -31,7 +31,7 @@ Download</a>
 | **cv2.CAP_PROP_FRAME_WIDTH**| The frame width of the video stream |
 |**cv2.CAP_PROP_FRAME_HEIGHT**| The frame height of the video stream |
 |**cv2.CAP_PROP_FPS**| The frame rate |
-|**cv2.CAP_PROP_FOURCC**| The code’s 4-letter code |
+|**cv2.CAP_PROP_FOURCC**| The codec’s 4-letter code |
 |**cv2.CAP_PROP_FRAME_COUNT**| The number of frames in the video file |
 |**cv2.CAP_PROP_BRIGHTNESS**| Camera brightness |
 |**cv2.CAP_PROP_CONTRAST**| Camera contrast |
